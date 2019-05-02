@@ -1,3 +1,5 @@
+![SchoolTech Header](https://github.com/akshatvg/AAGS-SchoolTech/blob/master/Header.png "SchoolTech Header")
+
 # AAGS- SchoolTech
 
 ## A project to help improve the educational sector in ways not thought of before.
