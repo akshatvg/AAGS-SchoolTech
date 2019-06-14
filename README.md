@@ -34,4 +34,4 @@ Teachers have to do all their work manually and due to too much work pressure, t
 
 ## Check out our website at:
 
-< https://akshatvg.github.io/AAGS-SchoolTech >
+<https://akshatvg.github.io/AAGS-SchoolTech>
