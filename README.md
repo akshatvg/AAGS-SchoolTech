@@ -30,29 +30,3 @@ Teachers have to do all their work manually and due to too much work pressure, t
 4) Similar questions preparation.
 
 5) Live doubt clearance.
-
-
-
-## Team
-
-AAGS
-
-
-
-## Product
-
-SchoolTech
-
-
-
-## Members
-
-1) Akshat Gupta
-
-2) Arpit Jain
-
-3) Sai Sandeep
-
-4) Deepak Malpani
-
-5) Aditya Rathore
