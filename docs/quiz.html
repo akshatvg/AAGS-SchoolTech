@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>SchoolTech Quiz</title>
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/font-awesome.min.css" rel="stylesheet">
+	<link href="css/datepicker3.css" rel="stylesheet">
+  <link href="css/styles.css" rel="stylesheet">
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+<!-- Optional theme 
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css"> -->
+
+	<!--Custom Font-->
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+	  <style>
+    .container {
+        padding-right : 0px;
+        padding-left : 0px;
+        margin-right : 0px;
+        margin-left : 0px;
+        padding-left: 30px;
+    }</style>
+</head>
+<body>
+    <h1 align="center">Welcome To The SchoolTech Quiz</h1>
+    <h2 align="center">Difficulty Level: Easy</h2>
+<div class="container">
+  <!--Content-->
+  <!--Question-->
+  <!--Answers-->
+  <!--Explaination-->
+  <h4 align="left" class="question">1) Did France cede nearly all of its colonies in Europe in 1763?</h4>
+    <div class="btn-group-lg btn-group" data-toggle="buttons">
+      <row>
+        <div class="col-lg-6">
+          <label class="btn btn-primary">
+            <input type="radio" name="optionsa" id="option1"> Yes
+          </label>
+        </div>
+        <!--<span>or</span>-->
+        <div class="col-lg-6">
+          <label class="btn btn-primary">
+            <input type="radio" name="optionsa" id="option2"> No
+          </label>
+        </div>
+      </row>
+  </div>
+
+<h4 align="left" class="question">2) Is Canada a member of the OECD?</h4>
+    <div class="btn-group-lg btn-group" data-toggle="buttons">
+      <row>
+        <div class="col-lg-6">
+          <label class="btn btn-primary">
+            <input type="radio" name="optionsb" id="option1"> Yes
+          </label>
+        </div>
+        <!--<span>or</span>-->
+        <div class="col-lg-6">
+          <label class="btn btn-primary">
+            <input type="radio" name="optionsb" id="option2"> No
+          </label>
+        </div>
+      </row>
+  </div>
+
+<h4 align="left" class="question">3) Is Canada's official language Zulu?</h4>
+  <div class="btn-group-lg btn-group" data-toggle="buttons">
+    <row>
+      <div class="col-lg-6">
+        <label class="btn btn-primary">
+          <input type="radio" name="optionsc" id="option1"> Yes
+        </label>
+      </div>
+      <!--<span>or</span>-->
+      <div class="col-lg-6">
+        <label class="btn btn-primary">
+          <input type="radio" name="optionsc" id="option2"> No
+        </label>
+      </div>
+    </row>
+</div>
+
+<h4 align="left" class="question">4) Is Canada bilingual?</h4>
+  <div class="btn-group-lg btn-group" data-toggle="buttons">
+    <row>
+      <div class="col-lg-6">
+        <label class="btn btn-primary">
+          <input type="radio" name="optionsd" id="option1"> Yes
+        </label>
+      </div>
+      <!--<span>or</span>-->
+      <div class="col-lg-6">
+        <label class="btn btn-primary">
+          <input type="radio" name="optionsd" id="option2"> No
+        </label>
+      </div>
+    </row>
+</div>
+<h3 id="marks" style="color: green;" align="center">Your marks are: 3/4</h3>
+<input id="final" align="center" class="btn btn-primary" type="submit" value="Submit"><br>
+</div>
+
+<script>
+    $(document).ready(function () {
+      $("#marks").css("visibility", "hidden");
+      $("#final").click(function () {
+        $("#marks").css("visibility", "visible");
+      })
+    })
+</script>
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+</body>
+</html>
