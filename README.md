@@ -32,6 +32,6 @@ Teachers have to do all their work manually and due to too much work pressure, t
 5) Live doubt clearance.
 
 
-## Check out our website at:
+## Check out our student dashboard website at:
 
 <https://akshatvg.github.io/AAGS-SchoolTech>
