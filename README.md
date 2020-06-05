@@ -30,7 +30,7 @@ Teachers have to do all their work manually and due to too much work pressure, t
 
 ## Requirements
 
-[![GitHub top language](https://img.shields.io/github/languages/top/akshatvg/AAGS-SchoolTech?logo=html&style=social)](https://github.com/akshatvg/)
+[![GitHub top language](https://img.shields.io/github/languages/top/akshatvg/AAGS-SchoolTech?logo=css&style=social)](https://github.com/akshatvg/)
 
 The source code of this project is written in **`HTML/CSS/JS`**. So, you do not require anything extra to run this project.
 
